@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A Complete PHP/MySQL based web application:
 
 
@@ -99,3 +100,6 @@ The complete ecommerce script with Paypal integration. Some of the features are 
  -- Easy to order system.
 
  
+=======
+# website-for-cracker-shop
+>>>>>>> 816b0b1c3cd0258961d1716d815ad44187d5ccf0
